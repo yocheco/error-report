@@ -1,0 +1,27 @@
+🔥 Reporte de Error en [Nombre de la Tienda Virtual]
+
+📄 Descripción del Error
+[Describe aquí de manera concisa y clara cuál es el problema que has encontrado en la tienda virtual.]
+
+
+🌐 Url : [http://localhost:3000/auth/signup]
+
+🐇 Pasos para Reproducir el Error
+Paso 1
+Paso 2
+Paso 3
+[Detalla los pasos que seguiste para encontrar el error.]
+
+✅ Comportamiento Esperado
+[Explica qué esperabas que sucediera cuando realizaste los pasos mencionados arriba.]
+
+⚠️ Comportamiento Actual
+[Describe qué sucedió en realidad y por qué crees que es un error.]
+
+📸 Capturas de Pantalla
+[Adjunta capturas de pantalla que muestren el error, si es posible. Esto puede ayudar a comprender mejor el problema.]
+
+🥷 Información Adicional
+Navegador y Versión: [Ejemplo: Google Chrome 98.0.4758.109]
+Sistema Operativo: [Ejemplo: Windows 10, macOS Big Sur, etc.]
+Dispositivo: [Ejemplo: PC, portátil, móvil, tablet, etc.]
